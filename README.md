@@ -13,13 +13,11 @@ Available on [Expo](https://expo.io/@cameronyking/devils-cup) for testing
     <img width="30%" src="assets/iPhone/0.jpg">
 	<img width="30%" src="assets/iPhone/1.jpg">
 	<img width="30%" src="assets/iPhone/2.jpg">
-	<img width="30%" src="assets/iPhone/3.jpg">
-    <img width="30%" src="assets/iPhone/4.jpg">
 </div>
 
 ## Open Source
 
-I've made it open sourced:
+Made with React Native, I've made it open-sourced:
 1. Download the project
 2. Download Explo CLI 
 3. Make sure NPM is install globally

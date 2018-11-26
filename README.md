@@ -7,7 +7,7 @@
 ## About
 
 Build for fun at 
-Available on [Expo](https://expo.io/@cameronyking/devils-cup) for testing
+Available on [Expo](https://expo.io/@cameronyking/devils-cup) for testing @ https://expo.io/@cameronyking/devils-cup
 
 <div style="display: inline-block;">
     <img width="30%" src="assets/iPhone/0.jpg">

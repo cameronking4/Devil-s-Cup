@@ -10,9 +10,10 @@ Build for fun at
 Available on [Expo](https://expo.io/@cameronyking/devils-cup) for testing
 
 <div style="display: inline-block;">
+    <img width="30%" src="assets/iPhone/0.jpg">
 	<img width="30%" src="assets/iPhone/1.jpg">
 	<img width="30%" src="assets/iPhone/2.jpg">
-	<img width="30%" src="assets/iPhone//3.jpg">
+	<img width="30%" src="assets/iPhone/3.jpg">
     <img width="30%" src="assets/iPhone/4.jpg">
 </div>
 

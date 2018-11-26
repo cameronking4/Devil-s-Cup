@@ -9,11 +9,11 @@
       "ios",
       "android"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "orientation": "portrait",
     "scheme": "xyz.cameronyking.devilscup",
     "primaryColor": "#000000",
-    "icon": "src/images/logo.png",
+    "icon": "src/images/icon.png",
     "splash": {
       "image": "assets/splash.png",
       "resizeMode": "contain",
@@ -34,7 +34,7 @@
     "android": {
       "package": "xyz.cameronyking.devilscup",
       "versionCode": 1,
-      "icon": "src/images/logo.png",
+      "icon": "src/images/icon.png",
       "permissions": []
     },
     "githubUrl": "https://github.com/cameronking4/Devil-s-Cup"

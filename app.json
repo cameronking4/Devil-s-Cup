@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Devil's Cup",
+    "description": " \"King's Cup\" Duke-themed drinking game",
+    "slug": "devils-cup",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "scheme": "xyz.cameronyking.devilscup",
+    "primaryColor": "#000000",
+    "icon": "src/images/logo.png", //512
+    "splash": {
+      "image": "assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 30000
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+		
+      "supportsTablet": true,
+      "bundleIdentifier": "xyz.cameronyking.devilscup",
+      "buildNumber": "1.0.1",
+      "icon": "src/images/icon.png", //1024
+
+    },
+
+    "android": {
+      "package": "xyz.cameronyking.devilscup",
+      "versionCode": 1,
+      "icon": "src/images/logo.png",
+      "permissions": []
+    }
+  }
+}

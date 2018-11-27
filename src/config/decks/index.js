@@ -5,6 +5,6 @@ import gigglesDeck from './sh*ts-and-giggles'
 
 export default {
   'Drinking Devils': hackersDeck, 
-  'Greek / SLG things': gigglesDeck,
-  'Truth or Drink': fitnessDeck
+//  'Greek / SLG things': gigglesDeck,
+//  'Truth or Drink': fitnessDeck
 }

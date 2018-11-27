@@ -6,7 +6,7 @@
 
 ## About
 
-Build for fun at 
+Built for fun and 
 Available on [Expo](https://expo.io/@cameronyking/devils-cup) for testing @ https://expo.io/@cameronyking/devils-cup
 
 <div style="display: inline-block;">
@@ -14,6 +14,19 @@ Available on [Expo](https://expo.io/@cameronyking/devils-cup) for testing @ http
 	<img width="30%" src="assets/iPhone/1.jpg">
 	<img width="30%" src="assets/iPhone/2.jpg">
 </div>
+
+
+## Demo on Smartphone
+
+To play the game follow these three easy steps: 
+1. Download "Expo Client" in your App Store
+2. Login with the creditials -
+	username: kyng 
+	password: kyng 
+3. Open "devils-cup" in "Published Projects"
+
+<img width="50%" src="gif.gif">
+
 
 ## Open Source
 

@@ -39,7 +39,7 @@ class Howto extends Component {
 					<Text style={{ fontSize: 24, color: '#fff', }}>Each player reads prompt aloud </Text>
 					<Text style={{ fontSize: 24, color: '#fff', }}>Drink according to prompt </Text>
 					<Text style={{ fontSize: 94, color: '#dedede', }}> </Text>
-					<Text style={{ fontSize: 18, color: '#dedede', }}>Please Drink Responsibly. This app does not condone or encourage underage drinking</Text>
+					<Text style={{ fontSize: 18, color: '#dedede', }}>Please Drink Responsibly.</Text>
                 </View>
 
 

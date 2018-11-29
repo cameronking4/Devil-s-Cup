@@ -9,9 +9,9 @@
       "ios",
       "android"
     ],
-    "version": "1.0.2",
+    "version": "1.0.7",
     "orientation": "portrait",
-    "scheme": "xyz.cameronyking.devilscup",
+    "scheme": "xyz.cameronking4.devilscup",
     "primaryColor": "#000000",
     "icon": "src/images/icon.png",
     "splash": {
@@ -27,13 +27,13 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "xyz.cameronyking.devilscup",
-      "buildNumber": "1.0.1",
+      "bundleIdentifier": "xyz.cameronking4.devilscup",
+      "buildNumber": "1.1.0",
       "icon": "src/images/icon.png"
     },
     "android": {
-      "package": "xyz.cameronyking.devilscup",
-      "versionCode": 1,
+      "package": "xyz.cameronking4.devilscup",
+      "versionCode": 5,
       "icon": "src/images/icon.png",
       "permissions": []
     },

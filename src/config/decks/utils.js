@@ -1,7 +1,7 @@
 const MIN_SIP = 0
 const MAX_SIP = 2
 
-array = ['twice', 'three times', 'the bitch cup'] 
+array = ['twice', 'three times', 'four times'] 
 export function getRandomPlayer (players) {
   const index = Math.floor(Math.random() * players.length)
   return players[index]

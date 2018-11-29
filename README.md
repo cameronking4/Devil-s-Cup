@@ -22,14 +22,12 @@ Download on [Google Play Store](https://play.google.com/store/apps/details?id=xy
 
 ## Demo on Smartphone
 
-To play the game follow these three easy steps: 
+To play the game follow these three steps: 
 1. Download "Expo Client" in your App Store
 2. Login with the creditials -
 	username: kyng 
 	password: kyng 
 3. Open "devils-cup" in "Published Projects"
-
-<img width="50%" src="gif.gif">
 
 
 ## Open Source

@@ -17,8 +17,8 @@ Available on [Expo](https://expo.io/@cameronyking/devils-cup) for testing @ http
 
 ## Download App
 
-Download on [Google Play Store](https://play.google.com/store/apps/details?id=xyz.kyng.devilscup)
-
+Download for Android [Google Play Store](https://play.google.com/store/apps/details?id=xyz.kyng.devilscup)
+Download for iOS [App Store](https://bit.ly/devilscup)
 
 ## Demo on Smartphone
 
